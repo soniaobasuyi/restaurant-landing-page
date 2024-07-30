@@ -6,7 +6,7 @@ function App() {
         <img className='top-background-image' src='src/assets/top-background-banner.svg' alt='background image'/>
         <img className='top-food-image' src='src/assets/top-food-image.svg' alt='food image'/>
         <div className='nav-section'>
-            <img className='icon' src='src/assets/foodie.svg' alt='foodie icon'/>
+            <img className='icon' src={'src/assets/foodie.svg'} alt='foodie icon'/>
             <ul>
                 <li>Home</li>
                 <li>About</li>
